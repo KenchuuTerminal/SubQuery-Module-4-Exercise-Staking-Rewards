@@ -2,9 +2,15 @@
 
 SubQuery powers the next generation of Polkadot dApps by allowing developers to extract, transform and query blockchain data in real time using GraphQL. In addition to this, SubQuery provides production quality hosting infrastructure to run these projects in.
 
-# SubQuery Example - Simple Aggregation
+# SubQuery Example - Staking-Rewards
 
-This very basic SubQuery indexes staked rewards and determines the total rewards for each account, demonstrating how to aggregate data. 
+This very basic SubQuery indexes staked rewards and determines the total rewards for each account, demonstrating how to aggregate data.
+
+# SubQuery Example - Staking-Rewards : Result
+
+![alt text](https://github.com/TsuyuKenchuu/SubQuery-Module-2-Exercise-Account-Balances/blob/master/SubQuery-M04-EX1.JPG?raw=true)
+
+# Getting Started
  
 # Getting Started
 
